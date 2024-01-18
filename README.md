@@ -35,7 +35,15 @@ Hey there! 👋 I'm Basit JAMIL, an Angular enthusiast with a knack for crafting
 
 ## Angular Projects 🅰️
 
-### Project 1: Weather App 🌦️
+### Project 1 : Budgeting Grid
+- **Description:** I collaborated with Sadaf Amouzegar, CEO of RivetAI, on a film budgeting project using AG Grid. The project involved creating dynamic budgeting templates with detailed cost breakdowns for key categories like "Above the Line," "Production," "Post Production," and "Other." The intuitive interface allows users to navigate, input/edit data, and perform automatic calculations for accurate and efficient film budget management. The system includes a top sheet for an uneditable overview of total budget figures, while detailed pages facilitate item-level adjustments.
+- **Technologies Used:**
+  - Angular
+  - AG GRID
+  - 🚀 RXJS
+- **Frontend Description:** User-friendly application to help to calculate budgets.
+
+### Project 2: Weather App 🌦️
 - **Description:** A weather application displaying current weather conditions using Highcharts for visual representations.
 - **Technologies Used:**
   - Angular
@@ -45,7 +53,7 @@ Hey there! 👋 I'm Basit JAMIL, an Angular enthusiast with a knack for crafting
 
 
 
-### Project 2: Task Tracker 📝
+### Project 3: Task Tracker 📝
 - **Description:** A task management application built with Angular and Material UI for efficient task organization.
 - **Technologies Used:**
   - Angular
@@ -55,7 +63,7 @@ Hey there! 👋 I'm Basit JAMIL, an Angular enthusiast with a knack for crafting
 - **Frontend Description:** Simplified task tracking with drag-and-drop functionality.
 
 
-### Project 3: Finance Dashboard 💰
+### Project 4: Finance Dashboard 💰
 - **Description:** A finance dashboard providing insights into stock market trends using AG-GRID for data presentation.
 - **Technologies Used:**
   - Angular
@@ -66,7 +74,7 @@ Hey there! 👋 I'm Basit JAMIL, an Angular enthusiast with a knack for crafting
 
 
 
-### Project 4: E-commerce Platform 🛒
+### Project 5: E-commerce Platform 🛒
 - **Description:** An e-commerce platform integrating DevExtreme components for a seamless shopping experience.
 - **Technologies Used:**
   - Angular
@@ -76,7 +84,7 @@ Hey there! 👋 I'm Basit JAMIL, an Angular enthusiast with a knack for crafting
 
 
 
-### Project 5: Travel Planner ✈️
+### Project 6: Travel Planner ✈️
 - **Description:** A travel planning app showcasing destinations using Material UI and 🌀 NGRX for state management.
 - **Technologies Used:**
   - Angular
