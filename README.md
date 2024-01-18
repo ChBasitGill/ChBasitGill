@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Basit JAMIL | Angular Developer .NET CORE 💻
 
 ## Contact Information 📧
-- Email: chbasitgill@gmail.com
+- Email: chbasitgill@gmail.com,  chbasitgill@outlook.com
 - WhatsApp: +923116612415
 - Personal Number: +601112814295
 
