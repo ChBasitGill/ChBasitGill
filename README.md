@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Basit JAMIL | Angular Developer 💻
+# Basit JAMIL | Angular Developer .NET CORE 💻
 
 ## Contact Information 📧
 - Email: chbasitgill@gmail.com
