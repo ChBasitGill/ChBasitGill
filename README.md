@@ -17,43 +17,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chbasitgill&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chbasitgill&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=chbasitgill&icon=7&color=7)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/basitjamil) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**ChBasitGill/ChBasitGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Basit JAMIL | Angular Developer .NET CORE 💻
-
-## Contact Information 📧
-- Email: chbasitgill@gmail.com,  chbasitgill@outlook.com
-- WhatsApp: +923116612415
-- Personal Number: +601112814295
-
-## About Me ℹ️
-Hey there! 👋 I'm Basit JAMIL, an Angular enthusiast with a knack for crafting remarkable web applications. My focus areas include 🌀 **NGRX**, 🚀 **RXJS**, 📊 **AG-GRID**, Material UI, Highcharts, and DevExtreme. I'm committed to building intuitive and scalable web solutions with Angular.
 
 ## Skills & Expertise 🛠️
 - **Angular:** Crafting dynamic and responsive web applications using Angular.
@@ -124,4 +89,17 @@ Hey there! 👋 I'm Basit JAMIL, an Angular enthusiast with a knack for crafting
   - 🌀 NGRX
   - 🚀 RXJS
 - **Frontend Description:** Interactive travel planner with a map view and itinerary management.
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chbasitgill&limit=5&theme=nord&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=chbasitgill&icon=7&color=7)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/basitjamil) 
+
 
