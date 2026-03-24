@@ -27,9 +27,8 @@ I specialize in building resilient, distributed systems and high-performance ban
 ### 🏆 Key Achievements
 * **Star of the Year 2021** (Systems Ltd)
 * **Employee of the Year 2020** (Aircod Technologies)
-* **Cost Efficiency:** Architected a bespoke financial reporting engine saving **$50k+/year** in licensing costs.
-* **Deployment Velocity:** Migrated 20+ services to GitHub Actions, reducing deployment time by **40%**.
-
+* **Infrastructure Optimization:** Reduced annual infrastructure costs by **$20k/year** through rigorous monitoring of application usage, precise tuning of **Pod counts**, and optimizing **CPU/RAM resource limits** and requests.
+* **Digital Transformation:** Successfully migrated a legacy Excel-based business workflow to a high-performance **AG Grid** implementation, replicating complex Excel functionalities within a managed web environment to improve data integrity and multi-user collaboration.
 ---
 
 ### 📊 GitHub Stats
