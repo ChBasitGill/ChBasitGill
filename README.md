@@ -1,45 +1,43 @@
-# Basit JAMIL | Angular Developer .NET CORE 💻
-## 💫 About Me:
-### Hi there 👋
-🔭 I’m currently working on : npm package (cbg-ng-utlis) and Angular Boilerplate for Medium and Large Scale Apps<br>👯 I’m looking to collaborate on : NGRX, 🚀 RXJS, 📊 AG-GRID, NX, Material UI, High-Charts, and Dev-Extreme<br>🤝 I’m looking for help with : I am looking for help with automating NPM updates to handle GitHub vulnerabilities, specifically Dependabot alerts. I'd like to streamline the update process before merging code to the master/main branch, potentially using tools like GitHub hooks or Husky.<br>🌱 I’m currently learning : Github Actions, Hooks and NPM<br>💬 Ask me about : Angular / .NET CORE / SQL / AZURE / GITHUB <br>⚡ Fun fact :  I love making 4K walking videos of my travels and used to be really into playing CSGO, though I don't play as much anymore
+# 🚀 Hi, I'm Basit Jamil
 
+### **Engineer**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chbasitgill1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chbasitgill) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basitgill) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chbasitgill1) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chbasitgill&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chbasitgill&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chbasitgill&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chbasitgill&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
-## Skills & Expertise 🛠️
-- **Angular:** Crafting dynamic and responsive web applications using Angular.
-- **🌀 NGRX:** Managing state efficiently and predictably using NGRX for large-scale applications.
-- **🚀 RXJS:** Implementing reactive programming paradigms for efficient data handling and streamlining.
-- **📊 AG-GRID:** Presenting and manipulating data effectively using AG-GRID for complex data sets.
-- **📊 Material UI:** Designing elegant and responsive UI components following Material Design.
-- **📊 Highcharts:** Creating visually appealing and interactive data visualizations.
-- **📊 DevExtreme:** Integrating and utilizing DevExtreme components for complex UI needs.
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chbasitgill&limit=5&theme=nord&combine_all_yearly_contributions=true)
+I specialize in building resilient, distributed systems and high-performance banking applications. With over **9 years of experience**, my focus is on **Clean Architecture**, **TDD**, and optimizing mission-critical infrastructure using **.NET 10**, **Kafka**, and **OpenShift**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chbasitgill&icon=7&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/basitjamil) 
+### 🛠 Technical Arsenal
 
+* **Backend:** `.NET 10/8/Core`, `C#`, `ASP.NET Core`, `CQRS`, `MediatR`, `Kafka`, `SignalR`
+* **Frontend:** `Angular (v2-v21)`, `Nx Monorepos`, `NgRx`, `TypeScript`, `Tailwind CSS`
+* **Infrastructure & Cloud:** `Azure (AZ-204)`, `GCP`, `OpenShift`, `Docker`, `Kubernetes (AKS)`, `GitHub Actions`
+* **Databases:** `PostgreSQL`, `MS SQL Server`, `Redis`, `Cosmos DB`
+* **Observability & Quality:** `Splunk`, `Azure App Insights`, `TDD (xUnit)`, `Playwright`, `Serilog`
 
+---
+
+### 📈 Current Focus
+- 🏗️ **Architecting** high-throughput event streaming layers for mission-critical banking apps.
+- ⚡ **Optimizing** application performance (maintaining 95%+ Lighthouse scores).
+- 🤖 **Automating** CI/CD pipelines to slash deployment times.
+- 🎓 **Continuous Learning:** Deep diving into the latest .NET 10 features and cloud-native patterns.
+
+---
+
+### 🏆 Key Achievements
+* **Star of the Year 2021** (Systems Ltd)
+* **Employee of the Year 2020** (Aircod Technologies)
+* **Cost Efficiency:** Architected a bespoke financial reporting engine saving **$50k+/year** in licensing costs.
+* **Deployment Velocity:** Migrated 20+ services to GitHub Actions, reducing deployment time by **40%**.
+
+---
+
+### 📊 GitHub Stats
+![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChBasitGill&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChBasitGill&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basitjamil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chbasitgill@gmail.com)
